@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-05",
-  "version": "3.5",
+  "updated_at": "2025-12-26",
+  "version": "3.6",
   "items": [
     {
       "item": "Fund Agents with Avo Tokens",
@@ -442,7 +442,8 @@
       "date": "2025-12-26",
       "category": "Development",
       "signed_by": "0xpaperhead",
-      "completed": false,
+      "completed": true,
+      "completedDate": "2025-12-27",
       "subItems": [
         {
           "item": "AI Trading Workflow Documentation",
@@ -454,7 +455,8 @@
           "item": "API Documentation Portal",
           "description": "Complete API documentation with examples, SDKs, and integration guides for developers",
           "date": "2025-12-26",
-          "completed": false
+          "completed": true,
+          "completedDate": "2025-12-27"
         }
       ]
     },
@@ -464,7 +466,8 @@
       "date": "2026-01-02",
       "category": "Platform",
       "signed_by": "0xpaperhead",
-      "completed": false
+      "completed": true,
+      "completedDate": "2026-01-02"
     },
     {
       "item": "Narrative Index Expansion",
