@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-26",
-  "version": "3.6",
+  "updated_at": "2026-01-28",
+  "version": "3.7",
   "items": [
     {
       "item": "Fund Agents with Avo Tokens",
@@ -476,27 +476,26 @@
       "date": "2026-01-23",
       "category": "Platform",
       "signed_by": "0xpaperhead",
-      "completed": false,
-      "subItems": [
-        {
-          "item": "DeFi Index Launch",
-          "description": "Curated index of top DeFi protocols and tokens on Solana",
-          "date": "2026-01-16",
-          "completed": false
-        },
-        {
-          "item": "AI Agent Index Launch",
-          "description": "Index tracking the performance of AI agent tokens and ICM ecosystem projects",
-          "date": "2026-01-23",
-          "completed": false
-        },
-        {
-          "item": "Custom Index Creator Tool",
-          "description": "Tools allowing users and developers to create and deploy their own custom indexes on Avo",
-          "date": "2026-01-23",
-          "completed": false
-        }
-      ]
+      "completed": true,
+      "completedDate": "2026-01-23"
+    },
+    {
+      "item": "Mag 7 Index",
+      "description": "Launch of the Magnificent 7 Index on Avo, providing exposure to the top 7 established crypto assets. This index allows users to gain diversified exposure to blue-chip crypto assets with a single investment.",
+      "date": "2026-01-22",
+      "category": "Platform",
+      "signed_by": "0xpaperhead",
+      "completed": true,
+      "completedDate": "2026-01-22"
+    },
+    {
+      "item": "Precious Metals Index",
+      "description": "Launch of the Precious Metals Index on Avo, providing exposure to tokenized precious metals and related assets on Solana. This index enables users to gain diversified exposure to gold, silver, and other precious metal-backed tokens.",
+      "date": "2026-01-26",
+      "category": "Platform",
+      "signed_by": "0xpaperhead",
+      "completed": true,
+      "completedDate": "2026-01-26"
     }
   ]
 }
